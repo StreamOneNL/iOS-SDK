@@ -1,0 +1,21 @@
+[submodule "Carthage/Checkouts/Alamofire"]
+	path = Carthage/Checkouts/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "Carthage/Checkouts/Argo"]
+	path = Carthage/Checkouts/Argo
+	url = https://github.com/thoughtbot/Argo.git
+[submodule "Carthage/Checkouts/Crypto"]
+	path = Carthage/Checkouts/Crypto
+	url = https://github.com/Soffes/Crypto.git
+[submodule "Carthage/Checkouts/Curry"]
+	path = Carthage/Checkouts/Curry
+	url = https://github.com/thoughtbot/Curry.git
+[submodule "Carthage/Checkouts/JFCommon"]
+	path = Carthage/Checkouts/JFCommon
+	url = https://github.com/nickygerritsen/JFCommon.git
+[submodule "TestingDependencies/Nimble"]
+	path = TestingDependencies/Nimble
+	url = https://github.com/Quick/Nimble.git
+[submodule "TestingDependencies/Quick"]
+	path = TestingDependencies/Quick
+	url = https://github.com/Quick/Quick.git
